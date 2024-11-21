@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter project.
+First Flutter self-study exercise
 
 ## Getting Started
 
